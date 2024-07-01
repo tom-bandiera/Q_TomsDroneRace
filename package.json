@@ -1,0 +1,15 @@
+{
+  "name": "com.mycompany.mypackage",
+  "version": "1.0.0",
+  "displayName": "My Package",
+  "description": "A description of my package",
+  "unity": "2021.1",
+  "author": {
+    "name": "Tom Bandiera",
+    "email": "tom.bandier@gmail.com",
+    "url": "https://yourwebsite.com"
+  },
+  "dependencies": {
+    "com.unity.some-dependency": "1.2.3"
+  }
+}
